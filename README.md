@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua!  
+Perkenalkan nama saya Ardy Triwibowo.  
+Saya merupakan mahasiswa Sistem Informasi Universitas Mercu Buana.  
+
+
 
 <!--
 **Sychii/Sychii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
